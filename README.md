@@ -14,7 +14,7 @@ Features
 - Clean and interactive Streamlit UI
 Installation
 Clone the repository and install dependencies:
-git clone https://github.com/your-username/book-recommender-llm.git
+git clone https://github.com/MonGer-B/book-recommender-llm
 cd book-recommender-llm
 pip install -r requirements.txt
 Usage
@@ -36,4 +36,5 @@ Future Improvements
 Author
 Baibhab Ghosh
 GitHub: https://github.com/MonGeR-B
+
 
