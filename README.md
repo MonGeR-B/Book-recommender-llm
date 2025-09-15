@@ -1,4 +1,7 @@
 Book Recommender (HuggingFace + Streamlit)
+
+
+
 Overview
 A Book Recommendation System built using Hugging Face embeddings and Streamlit.
 It suggests books based on genre, emotions, or free-text input.
@@ -33,3 +36,4 @@ Future Improvements
 Author
 Baibhab Ghosh
 GitHub: https://github.com/MonGeR-B
+
